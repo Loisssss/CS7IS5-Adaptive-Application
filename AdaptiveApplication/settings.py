@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'captcha',
 ]
 
 MIDDLEWARE = [
@@ -81,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'adaptive_database',
         'USER': 'adaptiveuser',
-        'PASSWORD': 'password',
+        'PASSWORD': 'Mrut8386',
     }
 }
 
